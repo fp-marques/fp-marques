@@ -1,16 +1,20 @@
-## Hi there 👋
+# Francisco Marques
 
-<!--
-**fp-marques/fp-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering @ IST · Research Intern @ Champalimaud Foundation
 
-Here are some ideas to get you started:
+Working at the intersection of medical imaging, healthcare AI, 
+and computational modeling applied to clinical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+🏥 Digital Surgery Lab, Champalimaud Foundation  
+Building a speech-to-structured-report pipeline for breast imaging  
+(NVIDIA Parakeet ASR + LLM structured extraction)
+
+## Projects
+🤖 [Microrobot Vascular Pathfinding](https://github.com/fp-marques/microrobot-vascular-pathfinding) — A* vs ACO in vascular networks  
+
+## Stack
+Python · NetworkX · NumPy · Matplotlib · LLM APIs · ASR
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/francisco-sp-marques/)
